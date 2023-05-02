@@ -1,4 +1,4 @@
-<image src="img\gitandgithub logo.png" alt="Logo">
+<image src="https://github.com/Artoym715/Gitinstraction/blob/main/img/gitandgithub%20logo.png" alt="Logo">
 
 # Работа с Git и Github
 
@@ -85,7 +85,7 @@ git log
 
 Показывает полное описание в журнале
 
-<image src="img/gitlog.png" alt="git log">
+<image src="https://github.com/Artoym715/Gitinstraction/blob/main/img/gitlog.png" alt="git log">
 
 Так же журнал можно отобразить в упращенном виде при помощм дполнительного флага:
 
@@ -93,7 +93,7 @@ git log
 git log --oneline
 ```
 
-<image src="img/gitlogoneline.png" alt="oneline">
+<image src="https://github.com/Artoym715/Gitinstraction/blob/main/img/gitlogoneline.png" alt="oneline">
 
 Что бы выйти из журнала в консоли нужно нажать клавишу - `Q` .
 
@@ -141,7 +141,7 @@ git switch -
 git diff
 ```
 
-<image src="img/gitdiff.png" alt="gitdiff">
+<image src="https://github.com/Artoym715/Gitinstraction/blob/main/img/gitdiff.png" alt="gitdiff">
 
 ## 10. Ветки в Git
 
@@ -254,7 +254,7 @@ git branch -D <имя ветки>
 
 **Пример:**
 
-<image src="img/git conflict.png" alt="gitdiff">
+<image src="https://github.com/Artoym715/Gitinstraction/blob/main/img/git%20conflict.png" alt="Конфликт слияния">
 
 Самый простой способ разрешить конфликт — отредактировать конфликтующий файл или выбрать вариант как показан на картинке.
 
